@@ -54,7 +54,7 @@
     "form-data": "catalog:",
     "iconv-lite": "catalog:",
     "jsonwebtoken": "catalog:",
-    "lodash": "catalog:",
+    "lodash": "4.17.23",
     "luxon": "catalog:",
     "mime-types": "2.1.35",
     "n8n-workflow": "workspace:*",
